@@ -15,8 +15,10 @@ Generative adversarial networks (GANs) are one of the hottest topics in deep lea
 
 ### More Resources
 
-* [Link 1](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-
+* [Tutorial 1](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* [Tutorial 2](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+* [Paper by Ian GOodfellow](https://arxiv.org/abs/1406.2661)
+* [Siraj Raval](https://www.youtube.com/watch?v=0VPQHbMvGzg)
 
 
 
